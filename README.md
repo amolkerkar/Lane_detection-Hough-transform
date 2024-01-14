@@ -1,2 +1,3 @@
 # Lane-detection---Hough-transform
-This repo contains a mini project of a computer vision application implementing Hough transform applied to a hard coded region of interest in road images/videos for lane detection. 
+This repository contains a computer vision application implementing the Hough transform applied to a region of interest in road images/videos for lane detection for further ADAS operations.
+## ![Test Image 1](master/op.png)
