@@ -3,3 +3,9 @@
 Test image: ![Test Image 1](https://github.com/amolkerkar/Lane-detection---Hough-transform/blob/main/src/road_image.jpg)
 Lane detected image: ![Test Image 1](https://github.com/amolkerkar/Lane-detection---Hough-transform/blob/main/output/final_image.jpg)
 
+## Applying Hough-transform to the road video for live lane detection was also performed:
+
+
+
+
+
