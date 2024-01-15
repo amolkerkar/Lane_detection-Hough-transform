@@ -7,7 +7,9 @@ Lane detected image: ![Test Image 1](https://github.com/amolkerkar/Lane-detectio
 Lane detected video:
 
 
-https://github.com/amolkerkar/Lane-detection---Hough-transform/assets/81116875/52bc50e0-668d-4b0a-a7d0-24079203358a
+https://github.com/amolkerkar/Lane-detection---Hough-transform/assets/81116875/2107c301-74ef-40b9-96c4-b37087a9adde
+
+
 
 
 
