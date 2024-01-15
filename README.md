@@ -5,7 +5,11 @@ Lane detected image: ![Test Image 1](https://github.com/amolkerkar/Lane-detectio
 
 ## Applying Hough-transform to the road video for live lane detection was also performed:
 Lane detected video:
-https://github.com/amolkerkar/Lane-detection---Hough-transform/assets/81116875/facbc7b0-b7b5-4699-a90d-a021367b35ad
+
+
+https://github.com/amolkerkar/Lane-detection---Hough-transform/assets/81116875/52bc50e0-668d-4b0a-a7d0-24079203358a
+
+
 
 
 
